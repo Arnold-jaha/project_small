@@ -1,0 +1,1 @@
+A new user called {{ user }} has been added to the database
